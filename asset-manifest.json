@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Jules-Shoe-Palace/static/css/main.ab6ca226.css",
+    "main.js": "/Jules-Shoe-Palace/static/js/main.5ef18500.js",
+    "static/media/image28.jpg": "/Jules-Shoe-Palace/static/media/image28.b588098bc0f6f487bc6a.jpg",
+    "static/media/image5.jpg": "/Jules-Shoe-Palace/static/media/image5.5ef43041cf0ac666c529.jpg",
+    "static/media/image15.jpg": "/Jules-Shoe-Palace/static/media/image15.7f5fcb83384d68dd1935.jpg",
+    "static/media/image31.jpg": "/Jules-Shoe-Palace/static/media/image31.36681b10161fdbc8d953.jpg",
+    "static/media/image12.jpg": "/Jules-Shoe-Palace/static/media/image12.7f43fc301bed8bd0db24.jpg",
+    "static/media/image29.jpg": "/Jules-Shoe-Palace/static/media/image29.0010c9220bb914c557aa.jpg",
+    "static/media/image25.jpg": "/Jules-Shoe-Palace/static/media/image25.612f5af0f4f17151bb06.jpg",
+    "static/media/image33.jpg": "/Jules-Shoe-Palace/static/media/image33.c44f65c6a6d7aca823f4.jpg",
+    "static/media/image24.jpg": "/Jules-Shoe-Palace/static/media/image24.dcab47f944b997ecd1eb.jpg",
+    "static/media/image16.jpg": "/Jules-Shoe-Palace/static/media/image16.425c246700c6a25b8132.jpg",
+    "static/media/image32.jpg": "/Jules-Shoe-Palace/static/media/image32.4d0ff8c1f48eef4bbf1a.jpg",
+    "static/media/image26.jpg": "/Jules-Shoe-Palace/static/media/image26.895b310b0beb4694217b.jpg",
+    "static/media/image14.jpg": "/Jules-Shoe-Palace/static/media/image14.86b9be36f83dc12d4b47.jpg",
+    "static/media/image23.jpg": "/Jules-Shoe-Palace/static/media/image23.504883263619ad94f4eb.jpg",
+    "static/media/image27.jpg": "/Jules-Shoe-Palace/static/media/image27.3c15aea2c80bd288321b.jpg",
+    "static/media/image19.jpg": "/Jules-Shoe-Palace/static/media/image19.3d3ef6f41e139fc8202b.jpg",
+    "static/media/image20.jpg": "/Jules-Shoe-Palace/static/media/image20.0b50660e7f78f218f1c8.jpg",
+    "index.html": "/Jules-Shoe-Palace/index.html",
+    "main.ab6ca226.css.map": "/Jules-Shoe-Palace/static/css/main.ab6ca226.css.map",
+    "main.5ef18500.js.map": "/Jules-Shoe-Palace/static/js/main.5ef18500.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab6ca226.css",
+    "static/js/main.5ef18500.js"
+  ]
+}
