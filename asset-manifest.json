@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Jules-Shoe-Palace/static/css/main.47507053.css",
-    "main.js": "/Jules-Shoe-Palace/static/js/main.ea4f5c7b.js",
+    "main.js": "/Jules-Shoe-Palace/static/js/main.d89e92d0.js",
     "static/media/image28.jpg": "/Jules-Shoe-Palace/static/media/image28.b588098bc0f6f487bc6a.jpg",
     "static/media/image5.jpg": "/Jules-Shoe-Palace/static/media/image5.5ef43041cf0ac666c529.jpg",
     "static/media/image15.jpg": "/Jules-Shoe-Palace/static/media/image15.7f5fcb83384d68dd1935.jpg",
@@ -21,10 +21,10 @@
     "static/media/image20.jpg": "/Jules-Shoe-Palace/static/media/image20.0b50660e7f78f218f1c8.jpg",
     "index.html": "/Jules-Shoe-Palace/index.html",
     "main.47507053.css.map": "/Jules-Shoe-Palace/static/css/main.47507053.css.map",
-    "main.ea4f5c7b.js.map": "/Jules-Shoe-Palace/static/js/main.ea4f5c7b.js.map"
+    "main.d89e92d0.js.map": "/Jules-Shoe-Palace/static/js/main.d89e92d0.js.map"
   },
   "entrypoints": [
     "static/css/main.47507053.css",
-    "static/js/main.ea4f5c7b.js"
+    "static/js/main.d89e92d0.js"
   ]
 }
