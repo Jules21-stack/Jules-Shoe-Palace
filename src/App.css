@@ -107,7 +107,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #ddd;
+  background-color: rgb(104, 76, 76);
   padding: 20px;
   margin-top: 20px;
 }

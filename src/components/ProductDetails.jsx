@@ -15,7 +15,8 @@ const productDetails = [
     productName: "Heeled Canvas Laced Boot",
     productImage: image1,
     productPrice: 2000,
-    productDetails: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    productDetails:
+      "A heeled sneaker is a hybrid footwear style that combines the casual and athletic design of a sneaker with the elevated heel typically found in more formal or dressy shoes. This type of shoe is often designed to provide both comfort and style, catering to those who want the sporty look of sneakers with a bit of added height.",
     numberOfRatings: 1,
   },
   {
@@ -23,7 +24,8 @@ const productDetails = [
     productName: "Gold 5 Inch High Level Heel",
     productImage: image2,
     productPrice: 2000,
-    productDetails: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    productDetails:
+      "The heel on stiletto shoes is typically narrow and pointed. This slim shape contributes to the elegant and sophisticated appearance of the footwear.",
     numberOfRatings: 7,
   },
   {
@@ -31,7 +33,8 @@ const productDetails = [
     productName: "Platform Chunky High Block Heel",
     productImage: image3,
     productPrice: 3500,
-    productDetails: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    productDetails:
+      "The heel on stiletto shoes is typically narrow and pointed. This slim shape contributes to the elegant and sophisticated appearance of the footwear.",
     numberOfRatings: 12,
   },
   {
@@ -39,7 +42,8 @@ const productDetails = [
     productName: "Coco Slingback 2.6 Inch Heel",
     productImage: image4,
     productPrice: 2100,
-    productDetails: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    productDetails:
+      "Chanel slingback shoes are known for their classic and sophisticated design. The slingback style typically features a strap that wraps around the back of the heel, providing a secure fit.",
     numberOfRatings: 14,
   },
   {
@@ -47,7 +51,8 @@ const productDetails = [
     productName: "Japanese Mary Jane Shoes",
     productImage: image5,
     productPrice: 2000,
-    productDetails: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    productDetails:
+      "Chanel slingback shoes are known for their classic and sophisticated design. The slingback style typically features a strap that wraps around the back of the heel, providing a secure fit.",
     numberOfRatings: 51,
   },
   {
@@ -55,7 +60,8 @@ const productDetails = [
     productName: "Cognac Cutout Summer Sandals",
     productImage: image6,
     productPrice: 1200,
-    productDetails: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    productDetails:
+      "Chanel slingback shoes are known for their classic and sophisticated design. The slingback style typically features a strap that wraps around the back of the heel, providing a secure fit.",
     numberOfRatings: 22,
   },
   {
@@ -63,7 +69,8 @@ const productDetails = [
     productName: "Pointed Toe High Heel 4.7 Inch Stiletto",
     productImage: image7,
     productPrice: 6000,
-    productDetails: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    productDetails:
+      "The heel on stiletto shoes is typically narrow and pointed. This slim shape contributes to the elegant and sophisticated appearance of the footwear.",
     numberOfRatings: 19,
   },
   {
@@ -71,7 +78,8 @@ const productDetails = [
     productName: "High Level Heels Leopard Women Pumps",
     productImage: image8,
     productPrice: 4000,
-    productDetails: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    productDetails:
+      "The heel on stiletto shoes is typically narrow and pointed. This slim shape contributes to the elegant and sophisticated appearance of the footwear.",
     numberOfRatings: 11,
   },
   {
@@ -79,7 +87,8 @@ const productDetails = [
     productName: "Women Peep Toe Breathable High Heeled Zapatillas Mujer",
     productImage: image9,
     productPrice: 2500,
-    productDetails: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    productDetails:
+      "The heel on stiletto shoes is typically narrow and pointed. This slim shape contributes to the elegant and sophisticated appearance of the footwear.",
     numberOfRatings: 9,
   },
   {
@@ -87,7 +96,8 @@ const productDetails = [
     productName: "Mystery Giuseppe Zanotti 2023",
     productImage: image10,
     productPrice: 7000,
-    productDetails: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    productDetails:
+      "Chanel slingback shoes are known for their classic and sophisticated design. The slingback style typically features a strap that wraps around the back of the heel, providing a secure fit.",
     numberOfRatings: 10,
   },
 ];

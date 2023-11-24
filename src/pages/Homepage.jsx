@@ -30,14 +30,21 @@ function HomePage() {
   return (
     <div>
       <section id="hero">
-        <h4>super value deals</h4>
         <h2>JULES SHOE PALACE.</h2>
         <h1>Best custom-made footwear</h1>
-        <p>Save more with JULES SHOE PALACE</p>
+        <h4>super value deals</h4>
+        <p>Your one-stop shop for stylish and comfortable shoes</p>
         <button onClick={handleButtonClick}>Shop Now</button>
       </section>
+      <h4>
+        Shoes ranging from High Stiletto heels, to sport shoes, to elegant
+        boots.
+        <br />
+        Every Shoe with is unique style
+      </h4>
       <ProductsPage products={products} onProductClick={handleProductClick} />
       {selectedProduct && <ProductPage product={selectedProduct} />}
+      <button onClick={handleButtonClick}>Shop Now</button>
     </div>
   );
 }

@@ -25,6 +25,7 @@ const ProductsPage = ({ onProductClick }) => {
               <div className="des">
                 <span>{product.brand}</span>
                 <h5>{product.productName}</h5>
+                <h7>{product.productDetails}</h7>
                 <div className="star">
                   {Array.from({ length: product.rating }, (_, index) => (
                     <i key={index} className="fas fa-star"></i>
