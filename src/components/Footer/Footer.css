@@ -1,0 +1,33 @@
+/* Footer styling */
+.footer {
+  background: linear-gradient(to right, #ff3333, #3366ff);
+  color: #fff;
+  padding: 20px;
+  position: fixed;
+  width: 100%;
+  text-align: center;
+  border: solid;
+  border-radius: 5px;
+}
+
+.footer .col {
+  margin: 0 15px;
+}
+
+.footer img.logo {
+  width: 75px;
+  height: 75px;
+}
+
+.footer a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  color: #ffd700; /* Change to the color you want on hover */
+}
+
+.footer a:active {
+  color: #00ff00; /* Change to the color you want when active */
+}

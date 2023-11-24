@@ -1,0 +1,19 @@
+/* CSS in a separate file or in your component */
+.checkout-btn {
+  background-color: #0074cc !important; /* Blue background color */
+  color: white !important; /* Text color */
+  padding: 12px 24px !important; /* Padding for size */
+  font-size: 1.5rem !important; /* Font size for larger text */
+  border: none !important; /* Remove border */
+  border-radius: 4px !important; /* Add rounded corners */
+  cursor: pointer !important; /* Add pointer cursor on hover */
+  margin: 0 auto !important; /* Center horizontally */
+  display: block !important; /* Ensure the button takes the full width of its container */
+  text-align: center !important; /* Center text within the button */
+  transition: background-color 0.3s !important; /* Smooth background color transition */
+}
+
+/* Add a hover effect to make it more attractive */
+.checkout-btn:hover {
+  background-color: #0058a6 !important; /* Darker blue on hover */
+}

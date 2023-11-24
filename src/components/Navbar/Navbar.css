@@ -1,0 +1,32 @@
+/* Add your Navbar styles here */
+/* For example: */
+#header {
+  background-color: lightblue;
+  color: white;
+  padding: 10px;
+}
+
+#navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+#navbar li {
+  float: left;
+  margin-right: 10px;
+}
+
+#navbar a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+#navbar a.active {
+  background-color: #4caf50;
+  color: white;
+}
